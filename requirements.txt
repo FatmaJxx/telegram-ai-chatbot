@@ -1,0 +1,19 @@
+fastapi
+uvicorn
+langchain-google-genai
+langgraph
+langchain
+python-dotenv
+langgraph-checkpoint
+pymongo
+langgraph-checkpoint-mongodb
+langchain-community
+wikipedia
+google-api-python-client
+google-auth
+langmem
+langgraph-store-mongodb
+pypdf
+python-docx
+pillow
+# pip install -r requirements.txt
